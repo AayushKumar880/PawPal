@@ -42,8 +42,8 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import dev.spikeysanju.wiggles.R
-import dev.spikeysanju.wiggles.model.Dog
+import dev.sirius.wiggles.R
+import dev.sirius.wiggles.model.Dog
 
 @Composable
 fun ItemDogCard(dog: Dog, onItemClicked: (dog: Dog) -> Unit) {
