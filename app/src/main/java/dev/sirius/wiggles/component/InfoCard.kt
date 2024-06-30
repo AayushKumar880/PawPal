@@ -37,7 +37,7 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import dev.spikeysanju.wiggles.R
+import dev.sirius.wiggles.R
 
 @Composable
 fun InfoCard(title: String, value: String) {
