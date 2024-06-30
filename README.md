@@ -1,4 +1,3 @@
-![GitHub Cards Preview](https://github.com/Spikeysanju/Wiggles/blob/main/art/GITHUB-COVER.png?raw=true)
 
 # Wiggles 🐶
 Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI 
