@@ -15,9 +15,9 @@
  */
 package dev.sirius.wiggles.data
 
-import dev.spikeysanju.wiggles.R
-import dev.spikeysanju.wiggles.model.Dog
-import dev.spikeysanju.wiggles.model.Owner
+import dev.sirius.wiggles.R
+import dev.sirius.wiggles.model.Dog
+import dev.sirius.wiggles.model.Owner
 
 object FakeDogDatabase {
     val owner = Owner("Spikey Sanju", "Developer & Pet Lover", R.drawable.owner)
