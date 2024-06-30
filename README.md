@@ -5,14 +5,6 @@ Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI
 
 <br />
 
-[![Wiggles](https://img.shields.io/badge/Wiggles-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Wiggles/releases/download/v1.0.0-alpha01/Wiggles.apk)
-
-<br />
-
-[![Wiggles](https://img.shields.io/badge/Wiggles-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/OXtSFvmcIcecMkuqSi2RaT/Compose-Challenge-1?node-id=102%3A1)
-
-<br />
-
 ## Day Mode 🌞
 Home | Details | Details (Scrolled)
 --- | --- | --- |
