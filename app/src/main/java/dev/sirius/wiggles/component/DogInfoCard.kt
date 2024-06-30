@@ -34,7 +34,7 @@ import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import dev.spikeysanju.wiggles.R
+import dev.sirius.wiggles.R
 
 @Composable
 fun DogInfoCard(name: String, gender: String, location: String) {
