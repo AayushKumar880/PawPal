@@ -28,7 +28,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.unit.dp
-import dev.spikeysanju.wiggles.R
+import dev.sirius.wiggles.R
 
 @Composable
 fun GenderTag(name: String) {
