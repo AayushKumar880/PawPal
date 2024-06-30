@@ -23,9 +23,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
-import dev.spikeysanju.wiggles.component.ItemDogCard
-import dev.spikeysanju.wiggles.component.TopBar
-import dev.spikeysanju.wiggles.model.Dog
+import dev.sirius.wiggles.component.ItemDogCard
+import dev.sirius.wiggles.component.TopBar
+import dev.sirius.wiggles.model.Dog
 
 @Composable
 fun Home(navController: NavHostController, dogList: List<Dog>, toggleTheme: () -> Unit) {
