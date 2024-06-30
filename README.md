@@ -1,19 +1,13 @@
 ![GitHub Cards Preview](https://github.com/Spikeysanju/Wiggles/blob/main/art/GITHUB-COVER.png?raw=true)
 
 # Wiggles 🐶
-Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI for Android Dev Challenge *Made with love ❤️ by [Spikeysanju](https://github.com/Spikeysanju)*
+Beautiful Puppy adoption app built to Demonstrate the Jetpack Compose UI 
 
 <br />
-
-***Try latest Wiggles app apk from below 👇***
 
 [![Wiggles](https://img.shields.io/badge/Wiggles-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Wiggles/releases/download/v1.0.0-alpha01/Wiggles.apk)
 
 <br />
-
-## UI Design 🎨
-
-***Click to View Wiggles app Design from below 👇***
 
 [![Wiggles](https://img.shields.io/badge/Wiggles-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/OXtSFvmcIcecMkuqSi2RaT/Compose-Challenge-1?node-id=102%3A1)
 
@@ -42,11 +36,6 @@ Home | Details | Details (Scrolled)
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
 
-
-## Credits 🤗
-
-- Icons are from [tablericons.com](https://tablericons.com)
-- Heartly congratulations for Jetpack Compose Team who worked hard to make Compose great ♥️
 
 
 
