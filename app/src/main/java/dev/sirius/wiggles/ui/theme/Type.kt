@@ -21,7 +21,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import dev.spikeysanju.wiggles.R
+import dev.sirius.wiggles.R
 
 private val Sailec = FontFamily(
     Font(R.font.sailec_regular),
